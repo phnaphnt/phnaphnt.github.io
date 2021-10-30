@@ -8,6 +8,8 @@ tags:
  - OOP
  - CSharp
 ---
+Đây là bài viết đầu tiên trong chuỗi bài viết [Những điều khác biệt](/tag/Những%20điều%20khác%20biệt/) mình viết nhằm giúp mọi người phần nào phân biệt được những khái niệm, công cụ trong lập trình chúng ta thường hay sử dụng nhưng đôi khi bản thân mình (trong quá khứ) hoặc ai đó thường nhầm lẫn hoặc chưa phân biệt được một cách rõ ràng giữa chúng. Mong rằng qua chuỗi bài viết này, chúng ta có thể hiểu rõ hơn những khái niệm, công cụ quen thuộc chúng ta sử dụng mỗi ngày và trở nên tốt hơn trên con đường lập trình của mình.
+
 **Interface** và **abstract class** là hai công cụ quan trọng của lập trình hướng đối tượng (OOP) mà không phải ai cũng có thể phân biệt rõ ràng được (vì giữa chúng có rất nhiều đặc điểm giống nhau), nhất là với những người mới học lập trình. Trong bài viết này, mình sẽ cùng nhau nói về định nghĩa, cách sử dụng và sự khác biệt giữa hai khái niệm này, cũng như đưa ra những tình huống khi nào thì chúng ta sẽ sử dụng interface, và khi nào chúng ta dùng abstract class. Ngôn ngữ mình dùng trong các ví dụ sẽ là **C#**, đối với những ngôn ngữ khác có thể khác biệt chút ít về tính năng (do sự đặc thù của từng ngôn ngữ được sử dụng trong từng công việc khác nhau) nhưng bạn vẫn có thể tham khảo những nội dung cơ bản nhé.
 
 # Định nghĩa [^1]
