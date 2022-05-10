@@ -7,6 +7,7 @@ tags:
  - Những điều khác biệt
  - OOP
  - CSharp
+ - Programming
 ---
 Đây là bài viết đầu tiên trong chuỗi bài viết [Những điều khác biệt](/tag/Những%20điều%20khác%20biệt/) mình viết nhằm giúp mọi người phần nào phân biệt được những khái niệm, công cụ trong lập trình chúng ta thường hay sử dụng nhưng đôi khi bản thân mình (trong quá khứ) hoặc ai đó thường nhầm lẫn hoặc chưa phân biệt được một cách rõ ràng giữa chúng. Mong rằng qua chuỗi bài viết này, chúng ta có thể hiểu rõ hơn những khái niệm, công cụ quen thuộc chúng ta sử dụng mỗi ngày và trở nên tốt hơn trên con đường lập trình của mình.
 
